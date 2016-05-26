@@ -1,0 +1,531 @@
+0	lebe wohl!	прощай!
+0	langsam	медленный
+0	streng	строгий
+0	der Hammer	молот
+0	die Kugel	шар
+0	der Hals	шея; горло, глотка
+0	der Reichtum	богатство
+0	überzeugen	убедить
+0	die Unterschrift	подпись
+0	einzig	единственный
+0	mächtig	могучий
+0	der Einfall	затея
+0	der Honig	мёд
+0	der Nord(en)	север
+0	der Kater	кот
+0	glauben	поверить
+0	beißen	кусать; жечь чесаться, зудеть
+0	der Gott	бог
+0	die Schramme	царапина
+0	der Schüler	ученик
+0	freundlich	приветливый, любезный, радушный, ласковый
+0	die Straßenkreuzung	перекрёсток
+0	die Luft	воздух; ветер, поэт. дуновение
+0	die Wäsche	бельё; стирка; мойка
+0	die Anregung	стимул
+0	unmöglich	невозможный
+0	die Neuheit	новость
+0	der Zucker	сахар
+0	heiser	хриплый
+0	kämpfen	бороться, сражаться, биться, драться; воевать
+0	frech	наглый
+0	der Dichter	поэт
+0	der Rock	юбка; пиджак; сюртук; китель; мундир
+0	zu Fuß	пешком
+0	die Nadel	игла
+0	füttern	кормить
+0	harmlos	безобидный
+0	der Haifisch	акула
+0	das Schuhwerk	обувь
+0	das Lob	хвала
+0	die Zeitung	газета
+0	die Laune	каприз
+0	die Nebenstraße	переулок
+0	der Apfel	яблоко
+0	der Vorwurf	упрёк
+0	eklig	мерзкий
+0	leicht	лёгкий
+0	die Mütze	шапка
+0	die Zahl	число
+0	das Tier	животное
+0	wärmen	греть
+0	die Grobheit	грубость
+0	die Hintertreppe	чёрный ход
+0	der Besuch	визит
+0	der Schweiß	пот
+0	schaffen	создать
+0	das Märchen	сказка
+0	der Handschuh	перчатка
+0	euer (eure,euer, eure)	ваш (ваша, ваше, ваши)
+0	der Ziegel	кирпич
+0	die Zunge	язык (анат.)
+0	zwischen	между, среди
+0	dumpf	тупой (о боли)
+0	der Winter	зима
+0	tief	глубокий
+0	zischen	шипеть
+0	der Mittag	полдень
+0	der Kopf	голова
+0	der Atem	дыхание
+0	glatt	гладкий
+0	das Kissen	подушка
+0	die Geduld	терпение
+0	naß	мокрый, сырой, влажный; дождливый, ненастный, промозглый (о погоде)
+0	der Garten	сад
+0	die Unruhe	тревога (беспокойство)
+0	die Blume	цветок
+0	spazierengehen	гулять
+0	besitzen	владеть
+0	sich regen	шевелиться
+0	die Hilfe	помощь
+0	stehen	стоять
+0	die Woche	неделя
+0	das Hemd	рубашка
+0	das Recht	право
+0	die Tochter	дочь
+0	der Flug	полёт
+0	der Weg	путь
+0	fliegen	летать, лететь
+0	die Begeisterung	восторг
+0	kochen	варить
+0	der Wahsinn	безумие
+0	ziehen	тянуть, вытаскивать, вынимать; выдёргивать, вырывать; доставать
+0	irgendwo	где-либо, где-нибудь, где-то
+0	umarmen	обнять
+0	der Laden	магазин
+0	unnütz	бесполезный
+0	der Lehrer	учитель
+0	dort	там
+0	betrügen	обмануть
+0	der Funken	искра
+0	unten	внизу
+0	hilflos	беспомощный
+0	o weh!	увы!
+0	fallen	падать
+0	der Neid	зависть
+0	die Nähe	близость
+0	berühmt	известный (знаменитый)
+0	schrill	пронзительный
+0	die Bildung	образование
+0	hüten	стеречь
+0	die Sauberkeit	чистота
+0	wohnen	жить (проживать)
+0	die Weite	простор
+0	die Spur	след; колея
+0	die Wonne	блаженство, наслаждение, упоение
+0	die Rede	речь
+0	das Herz	сердце
+0	die Schleife	бант
+0	das Fieber	лихорадка
+0	die Leute	люди
+0	mutig	мужественный, смелый, храбрый, отважный
+0	jeder	каждый
+0	die Nacht	ночь
+0	der Eingang	вход (дверь и т.п.)
+0	die Wange	щека
+0	die Schwermut	тоска
+0	die Familie	семья
+0	arm	бедный
+0	um so schlimmer	тем хуже
+0	wütend	яростный, рассвирипевший, свирепый, неистовый; бешеный
+0	endlich	наконец
+0	nackt	нагой
+0	drücken	давить, жать; мять; эк. сбивать; прижиматься 
+0	die Grube	яма
+0	nett	милый
+0	verwöhnen	баловать
+0	morgen	завтра
+0	das Gras	трава
+0	das Ohr	ухо
+0	wieß	белый
+0	der Kampf	борьба
+0	der Zahn	зуб
+0	mündlich	устный
+0	kommen	прийти
+0	die Mittagessen	обед
+0	quälen	мучить
+0	die Decke	одеяло
+0	der Stein	камень
+0	bequem	удобный, уютный; приятный; диал. ловкий, работящий, усердный
+0	die Welt	мир, свет, вселенная; земной шар
+0	sauer	кислый
+0	hassen	ненавидеть
+0	die Jugend	юность; диал. младенец, новорождённый
+0	die Treue	верность (преданность)
+0	das Datum	дата
+0	die Schulter	плечо
+0	das Blatt	лист; лепесток; газета; журнал; карта(игральная)
+0	in Wut geraten	прийти в бешенство
+0	das Kücken	цыплёнок
+0	erstaundlich	изумительный
+0	zärtlich	ласковый
+0	gemein	безобразный  (о поступке)
+0	der Humor	юмор
+0	schlagen	бить (избивать, ударять)
+0	der Tau	роса; канат, трос; снасть
+0	die Antwort	ответ
+0	wiederholen	повторить, повторять
+0	der Turm	башня; колонна
+0	das Huhn	курица; разг. глупый [ограниченный] человек
+0	anstecken mit	заразить чем-л
+0	der Quatsch	ерунда (разг)
+0	froh	радостный; довольный, счастливый
+0	die Brandwunde	ожог
+0	werden	стать (сделаться)
+0	die Jacke	куртка
+0	der Lohn	заработная плата, зарплата; жалованье; награда
+0	halten	держать
+0	das Jahrhundert	век (столетие)
+0	glücklich	счастливый
+0	nirgends	нигде
+0	wahnsinnig	безумный, помешанный, сумасшедший;
+0	der Vogel	птица
+0	die Naht	шов
+0	das Gift	яд; отрава; 
+0	das Geheimnis	тайна
+0	der Waschbär	енот
+0	die Erzählung	рассказ
+0	viel	много; (на)много, гораздо, значительно
+0	schwer	трудный; тяжёлый; тяжеловесный, массивный, грузный; большой, сильный
+0	das Gelächter	смех
+0	zurückgeben	вернуть
+0	das Schloß	замок, затвор
+0	der Baum	дерево
+0	der Dachboden	чердак
+0	still	тихий, спокойный, смирный; неподвижный; робкий
+0	verschwinden	исчезать, исчезнуть
+0	unbedingt	безусловный, безоговорочный; полный, абсолютный
+0	der Lärm	(сильный) шум; гам
+0	fest	крепкий, прочный; твёрдый
+0	die Finsternis	тьма
+0	die Verachtung	презрение
+0	fehlerlos	безошибочный
+0	das Dutzend	дюжинаsicher
+0	entgegen	навстречу; вопреки, против
+0	der Mond	луна
+0	sinnlos	бессмысленный; безрассудный; безумный
+0	gute Nacht!	спокойной ночи!
+0	das Schloß	замо'к
+0	brennen	гореть; жечь; сжигать
+0	die Stirn	лоб
+0	zart	нежный
+0	der Frost	мороз
+0	der Finger	палец
+0	das Fenster	окно
+0	die Kraft	сила
+0	das Gesicht	лицо
+0	leben	жить (существовать)
+0	haben	иметь
+0	die Schwäche	слабость; слабая сторона, недостаток
+0	die Wahrheit	истина
+0	das Schicksal	судьба, участь, доля; рок
+0	die Nummer	номер
+0	der Notizblock	блокнот
+0	fur immer	навсегда
+0	die Kuh	корова
+0	der Pelz	шуба
+0	suchen	искать
+0	der Freund	друг
+0	die Stimme	голос
+0	der Marmor	мрамор
+0	der Grund	дно
+0	die Ecke	угол; разг. кусок; отрезок (пути)
+0	das Wunder	чудо
+0	die Kette	цепь; цепочка; ожерелье, нить
+0	sicher	безопасный; надёжный, верный; достоверный
+0	beißen	укусить
+0	weinen	плакать
+0	das Möbel	мебель
+0	die Kälte	холод; холодность, сухость
+0	rot	алый
+0	grell	яркий; резкий; кричащий (о цвете)
+0	die Äußerung	высказавание
+0	häßlich	безобразный (о внешности)
+0	die Hose	брюки
+0	der Mund	рот
+0	anstecken	заразить
+0	mager	худой; тощий; нежирный; перен. бедный, скудный
+0	hell	светлый; ясный; яркий
+0	das Pferd	лошадь
+0	der Gast	гость
+0	die Gesellschaft	общество
+0	hübsch	красивый, прелестный, милый
+0	einschlagen	вбивать, вбить
+0	die Härte	твёрдость
+0	springen	прыгать, прыгнуть
+0	die Aufgabe	задание
+0	das Gold	золото
+0	die Einheit	единство
+0	der Glaube(n)	вера
+0	der Herbst	осень
+0	der Ost(en)	восток
+0	plötzlich	вдруг; внезапный, неожиданный
+0	die Adresse	адрес
+0	aufstehen	встать
+0	warten	ждать
+0	die Angst	страх
+0	auslernen	выучить (что-л)
+0	die Lippe	губа
+0	hoffnungsios	безнадёжный
+0	die Handfläche	ладонь
+0	die Schwäche	слабость
+0	der Ausgang	выход
+0	der Erfolg	успех
+0	teilen	делить
+0	das Papier	бумага
+0	das Bild	картина
+0	befühlen	ощупывать, щупать, осязать, трогать
+0	flüssig	жидкий
+0	der Spott	насмешка
+0	möglich	возможный
+0	fragen	спросить; предъявлять спрос (на что-л.)
+0	die Kindheit	детство
+0	traurig	печальный
+0	die Farbe	цвет, краска; цвет лица
+0	unverantwortlich	безответственный
+0	schwimmen	плавать
+0	der Autor	автор
+0	sich unterhalten	беседовать
+0	die Ordnung	порядок
+0	der Storch	аист
+0	das Wetter	погода
+0	der Berg	гора
+0	das Grab	могила
+0	die Bitte	просьба
+0	die Unverantwortlichkeit	безответственность
+0	die Stadt	город
+0	erstens	во-первы
+0	die Menge	масса, количество (вещества); толпа
+0	der Regen	дождь
+0	der Kasten	ящик
+0	das Versprechen	обещание
+0	das Gesetz	закон
+0	schätzen	ценить
+0	die Taube	голубь
+0	das Lied	песня
+0	ohne	без
+0	schon	уже; в усилительном значении уж, даже
+0	die Kraftlosigkeit	бессилие
+0	das Dorf	деревня
+0	rufen	звать
+0	die Glatze	лысина
+0	der Junge	мальчик
+0	das Schiff	корабль
+0	das Buch	книга
+0	die Brille	очки
+0	der Durst	жажда
+0	der Schritt	шаг
+0	der Stock	этаж
+0	schlucken	глотать
+0	der Zorn	гнев
+0	nackt	голый, нагой; раздетый; обнажённый; перен. тж. неприкрытый
+0	die Grausamkeit	жестокость
+0	der Prahler	хвастун
+0	leer	пустой
+0	die Vernunft	благоразумие
+0	wollen	хотеть
+0	der Kuß	поцелуй
+0	verwirren	пугать
+0	der Hammel	баран
+0	der Krüppel	калека
+0	selten	редкий
+0	das Auge	глаз
+0	der Platz	место
+0	das Alter	старость
+0	der Übergang	переход
+0	die Dankbarkeit	благодарность
+0	der Glanz	блеск
+0	die Spalte	щель; столбец, колонка; гранка
+0	die Schwester	сестра
+0	die Ära	эра
+0	die Kochtopf	кастрюля
+0	die Nase	нос
+0	der Absatz	каблук
+0	heute	сегодня
+0	nicken	кивать, кивнуть
+0	der Haß	ненависть
+0	die Brücke	мост
+0	ähnlich	похожий, сходный, подобный, аналогичный
+0	der Künstler	артист
+0	der Seufzer	вздох
+0	der Schauspieler	актёр
+0	das Getrampel	топот
+0	das Eis	лёд; мороженое
+0	die Müdigkeit	усталость
+0	der April	апрель
+0	die Selbstsucht	эгоизм
+0	zutraulich	доверчивый
+0	faul	гнилой; тухлый; прелый; ленивый
+0	die Trennung	разлука
+0	oben	вверху
+0	die Gefahrlosigkeit	безопасность
+0	blond	белокурый
+0	das Licht	свет
+0	die Karte	билет
+0	dunkel	тёмный
+0	zum Beispiel	например
+0	der Hahn	петух
+0	hierher	сюда
+0	das Unglück	несчастье; неудача; беда, бедствие, напасть
+0	die Binde	бинт
+0	tadellos	безукоризненный
+0	werfen	бросить(кинуть)
+0	die Sparsamkeit	бережливость
+0	die Morgendämmerung	рассвет
+0	der Himmel	небо
+0	spülen	полоскать, промывать, мыть
+0	der Spiegel	зеркало; уровень; 
+0	der Unterscheid	различие
+0	das Ende	конец
+0	das Geld	деньги
+0	der Igel	ёж
+0	die Pflicht	долг (обязанность)
+0	erblassen	бледнеть
+0	die Geschichte	история; рассказ, повесть
+0	das Lächeln	улыбка
+0	das Wohl	благо
+0	die Nachricht	весть
+0	die Butter	масло
+0	angreifen	напасть
+0	die Natur	природа
+0	der Weg	дорога; путь; поездка, путешествие
+0	das Leben	жизнь
+0	farblos	бесцветный
+0	die Abteilung	отдел
+0	tapfer	храбрый; добросовестный
+0	die Mutter	мать
+0	der Geruch	обоняние, чутьё; запах
+0	das Klappfenster	форточка
+0	die Zeit	время
+0	der Zettel	запискаAndeutung
+0	Roß	конь; фам. дурак, олух
+0	es genugt!	хватит!
+0	deutlich	ясный, отчётливый, чёткий; внятный; вразумительный; явный
+0	messen	мерить
+0	die Birke	берёза
+0	kurz	короткий
+0	das Boot	лодка
+0	der Nebel	туман
+0	der Wolkenkratzer	небоскрёб
+0	die Armut	бедность
+0	die Faust	кулак
+0	ohne Zweifel	несомненно
+0	regen	шевелить
+0	geschmacklos	безвкусный
+0	der Arbeiter	рабочий
+0	die Frau	женщина
+0	der Sprinbrunnen	фонтан
+0	die Träne	слеза
+0	zählen	считать; подсчитывать, высчитывать; отсчитывать
+0	unendlich	бесконечный
+0	die Uhr	часы
+0	schreiben	писать
+0	der Schatten	тень
+0	tragen	носить, нести; переносить; держать (напр., какой-л. груз); переносить, передавать, распространять
+0	stören	мешать (беспокоить)
+0	der Held	герой
+0	ausgeben	выдавать, выдать
+0	gesund	здоровый; крепкий; тех. исправный (напр., о двигателе)
+0	lügen	лгать
+0	die Schlacht	битва
+0	verteidigen	защищать
+0	die Sicherheit	уверенность
+0	schwarz	чёрный
+0	die Unordnung	беспорядок
+0	die Asche	пепел
+0	der Tag	день
+0	wirklich?	неужели
+0	satt	сытый; сочный, густой, насыщенный (о цвете и т. п.)
+0	die Dummheit	глупость
+0	der Appetit	аппетит
+0	der Mann	мужчина
+0	die Wut	ярость, бешенство
+0	das Knie	колено; изгиб (реки, дороги)
+0	die Gefahr	опасность
+0	harmlos	безобидный
+0	der Monat	месяц
+0	die Erholung	отдых
+0	die Milch	молоко
+0	die Garantie	гарантия
+0	hören	слушать
+0	sparen	копить; беречь, экономить
+0	rein	чистый; незагрязнённый; опрятный, аккуратный
+0	überall	везде
+0	rauchen	дымить; дымиться; чадить; курить
+0	fleißig	прилежный
+0	das Band	лентаOzean
+0	gerade	прямой; перен. прямой, прямодушный, откровенный; именно
+0	sparsam	бережливый
+0	der Sommer	лето
+0	schlecht	плохой
+0	die Andeutung	намёк; обозначение; признак, предзнаменование
+0	die Aggression	агрессия
+0	sofort	немедленно
+0	die Wolke	облако; туча
+0	der Untergang	гибель
+0	das Gehirn	мозг
+0	der Hof	двор; усадьба; хутор
+0	das Loch	дыра, отверстие; пролом; прорубь; нора
+0	böse	сердитый; злой, злобный, вредный
+0	das Gespräch	беседа
+0	beobachten	наблюдать
+0	der Schrank	шкаф
+0	die Gabe	дар
+0	die Haut	кожа
+0	der Arzt	врач
+0	der Löwe	лев
+0	scherzen	шутить
+0	der Hunger	голод
+0	der Schneesturm	вьюга
+0	der Spaß	шутка; забава, потеха; удовольствие, развлечение
+0	die Wohnung	жилище
+0	der Vater	отец
+0	fahren	везти
+0	billig	дешёвый; справедливый, уместный
+0	achten	уважать
+0	die Tasche	карман
+0	der Schrei	крик; вопль
+0	der Kind	ребёнок
+0	der Leim	клей
+0	das Ufer	берег; побережье
+0	drücken	нажать
+0	der Kummer	печаль
+0	übergeben	передать
+0	offenkundig	очевидный, явный; общеизвестный
+0	die Traurigkiet	грусть
+0	besuchen	навестить, навещать
+0	wild	дикий, первобытный, нетронутый; заброшенный, запущенный
+0	gierig	алчный
+0	die Herde	стадо
+0	zeigen	показать, показывать
+0	der Ozean	океан
+0	ganz	целый, весь; совсем; настоящий, основательный
+0	der Sohn	сын
+0	der Stolz	гордость
+0	die Bestellung	заказ; доставка, передача
+0	gewinnen	выиграть, выигрывать
+0	das Ei	яйцо
+0	die Entschuldigung	извинение
+0	bisweilen	иногда, подчас, порою; изредка
+0	der Wolf	волк
+0	gern	охотно
+0	die Freiheit	свобода
+0	das Frühstück	завтрак
+0	der Rücken	спина
+0	erschrecken	испугать
+0	nachlässig	халатный
+0	das Feuer	огонь
+0	grau	серый
+0	die List	хитрость
+0	das Gefühl	чувство
+0	der Schlag	удар
+0	der Fehler	ошибка; погрешность; промах; неправильность; заблуждение; обмолвка; описка
+0	der Füller	авторучка
+0	der Bulle	бык
+0	die Eifersucht	ревность
+0	wünschen	желать
+0	garstig	скверный, гадкий, мерзкий, гнусный
+0	die Nuß	орех
+0	schlimmer	хуже
+0	der Frülung	весна
+0	anfangen	начать
